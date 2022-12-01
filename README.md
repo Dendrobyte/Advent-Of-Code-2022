@@ -12,7 +12,7 @@ Lastly, I chose Python because it's a quick language and I'm looking to get very
 
 ## 目次 Table of Contents
 
-- [x] Day 1 -- [Day 1 Python File](Day_1.py) | [Part 2](Day_1-2.py)
+- [x] Day 1 -- [Day 1 Python File](day1.py)
   - Time: 8m21s
   - Log: Just iterating. Day 2 caught me for a second and then I realized order doesn't matter. Very epic.
 
