@@ -16,7 +16,11 @@ Lastly, I chose Python because it's a quick language and I'm looking to get very
   - Time: 8m21s
   - Log: Just iterating. Day 2 caught me for a second and then I realized order doesn't matter. Very epic.
 
-- [ ] Day X -- [Day X Python File](Day_X.py) | [Part 2](Day_X-2.py)
+- [ ] Day 2 -- [Day 2 Python File](day2.py)
+  - Time: 15m16s
+  - Log: The prompt was kinda convoluted. Part 2 I just used maps, but I'm sure there's a simpler way. I didn't want to waste too much time trying to optimize code length or anything.
+
+- [ ] Day X -- [Day X Python File](dayX.py) | [Part 2](Day_X-2.py)
   - Time:
   - Log:
 
