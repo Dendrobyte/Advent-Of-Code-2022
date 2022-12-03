@@ -16,9 +16,13 @@ Lastly, I chose Python because it's a quick language and I'm looking to get very
   - Time: 8m21s
   - Log: Just iterating. Day 2 caught me for a second and then I realized order doesn't matter. Very epic.
 
-- [ ] Day 2 -- [Day 2 Python File](day2.py)
+- [x] Day 2 -- [Day 2 Python File](day2.py)
   - Time: 15m16s
   - Log: The prompt was kinda convoluted. Part 2 I just used maps, but I'm sure there's a simpler way. I didn't want to waste too much time trying to optimize code length or anything.
+
+- [x] Day 3 -- [Day 3 Python File](day3.py)
+  - Time: 21m50s
+  - Log: Took me a solid 10 or so minutes to figure out enumerating part 2 haha. Awkward. Definitely a set question here, versus iterating over all of them to find duplicates. That occurred to me quickly, very nice.
 
 - [ ] Day X -- [Day X Python File](dayX.py) | [Part 2](Day_X-2.py)
   - Time:
